@@ -1,7 +1,5 @@
-<!-- a href="#"><p align="center"><img width="48px" src="https://avatars.githubusercontent.com/u/9919?v=4" alt="Github" /></p></a -->
+
 <h1 align="center">Seja bem vindo </h1>
-![Snake animation](https://github.com/ArseniumGX/ArseniumGX/blob/output/github-user-contribution.svg)
-<img align="right" width="20%" src="https://media.giphy.com/media/CEHtFH3rJ6xdhBUKIT/giphy.gif"/>
 <code>console.log("Hello World..")</code>
 
 <p align="justify">
@@ -56,5 +54,5 @@
 </div>
 <br>
 ---
-![Snake animation](https://github.com/PedroCode2/PedroCode2/blob/output/github-user-contribution.svg)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
 <!---  **************************************************************************************************************************************************  --->
