@@ -7,14 +7,21 @@
    Me Chamo Pedro Henrique e sou um FullStack Developer. Entrei nessa área há pouco tempo, durante minha jornada adquiri conhecimentos em javascript, html e css. Minha principal stack é o backend, costumo trabalhar com o NodeJS utilizando o express e o NestJS com o Typescript por ser mais claro. Atualmente venho estudando o mundo do frontend usando o framework ReactJS e estou gostando do que venho aprendendo nessa jornada.
    Este é meu backend, bem vindo(a) ao meu repositório!
 </p>
+
 ---
+
+
 <br>
 <div align="center">
    <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocode2&show_icons=true&theme=vue-dark&custom_title=PedroCode2+Github+stats&include_all_commits=true&count_private=true">
    <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocode2&layout=compact&theme=vue-dark&langs_count=8">
 </div>
 <br>
+
+
 ---
+
+
 <h3 align="center">Redes Sociais</h3>
 <div align="center">
    <a href="https://www.linkedin.com/in/pedro-henrique-soares-40b18b21a/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a> &nbsp;&nbsp;
@@ -53,7 +60,9 @@
    <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt "AngularJS">&nbsp;
 </div>
 <br>
+
 ---
+
 <!---Cobrinha comendo animação --->
 
 ![Snake animation](https://github.com/pedrocode2/pedrocode2/blob/output/github-user-contribution.svg)
