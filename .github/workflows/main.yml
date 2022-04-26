@@ -1,0 +1,24 @@
+name: Generate Animation
+
+on:
+  schedule: # execute every 12 hours
+    - cron: "* */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: windows-11
+    
+    steps:
+      # Snake Animation
+      - uses: Platane/snk@master
+        with:
+          github_user_name: PedroCode2
+          svg_out_path: dist/github-user-contribution.svg
+
+      - uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
