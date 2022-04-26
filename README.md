@@ -13,7 +13,7 @@
 
 <br>
 <div align="center">
-   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocode2&show_icons=true&theme=vue-dark&custom_title=PedroCode2+Github+stats&include_all_commits=true&count_private=true">
+   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=pedrocode2&show_icons=true&theme=vue-dark&custom_title=PedroCode2%27s+Github+stats&include_all_commits=true&count_private=true">
    <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocode2&layout=compact&theme=vue-dark&langs_count=8">
 </div>
 <br>
