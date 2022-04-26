@@ -15,7 +15,7 @@
 </div>
 <br>
 ---
-<h3 align="center">Networks</h3>
+<h3 align="center">Redes Sociais</h3>
 <div align="center">
    <a href="https://www.linkedin.com/in/pedro-henrique-soares-40b18b21a/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a> &nbsp;&nbsp;
    <a href="https://www.facebook.com/PedroCode2/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> &nbsp;&nbsp;
@@ -54,5 +54,5 @@
 </div>
 <br>
 ---
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
 <!---  **************************************************************************************************************************************************  --->
