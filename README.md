@@ -13,8 +13,8 @@
 
 <br>
 <div align="center">
-   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=PedroCode2&show_icons=true&theme=monokai&custom_title=PedroCode2's+Github+stats&include_all_commits=true&count_private=true">
-   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCode2&layout=compact&theme=monokai&langs_count=8">
+   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api?username=PedroCode2&show_icons=true&theme=vue-dark&custom_title=PedroCode2's+Github+stats&include_all_commits=true&count_private=true">
+   <img height=180px align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCode2&layout=compact&theme=vue-dark&langs_count=8">
 </div>
 <br>
 
