@@ -7,7 +7,7 @@ on:
 
 jobs:
   build:
-    runs-on: windows-11
+    runs-on: ubuntu-latest
     
     steps:
       # Snake Animation
