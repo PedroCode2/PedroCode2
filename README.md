@@ -54,5 +54,5 @@
 </div>
 <br>
 ---
-
+![Snake animation](https://github.com/ArseniumGX/ArseniumGX/blob/output/github-user-contribution.svg)
 <!---  **************************************************************************************************************************************************  --->
