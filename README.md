@@ -55,5 +55,7 @@
 <br>
 ---
 <!---Cobrinha comendo animação --->
+
 ![snake gif](https://github.com/pedrocode2/pedrocode2/blob/output/github-contribution-grid-snake.gif)
+
 <!---  **************************************************************************************************************************************************  --->
