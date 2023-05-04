@@ -65,6 +65,6 @@
 
 <!---Cobrinha comendo animação --->
 
-![Snake animation](https://github.com/pedrocode2/pedrocode2/blob/output/github-user-contribution.svg)
+<!-- ![Snake animation](https://github.com/pedrocode2/pedrocode2/blob/output/github-user-contribution.svg) -->
 
 <!---  **************************************************************************************************************************************************  --->
