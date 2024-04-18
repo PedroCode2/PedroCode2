@@ -2,59 +2,30 @@
 <h1 align="center">Seja bem vindo </h1>
 <code>console.log("Hello World..")</code>
 
-<p align="justify">
-   Olá!
-   Me Chamo Pedro Henrique e sou um FullStack Developer. Entrei nessa área há pouco tempo, durante minha jornada adquiri conhecimentos em javascript, html e css. Minha principal stack é o backend, costumo trabalhar com o NodeJS utilizando o express e o NestJS com o Typescript por ser mais claro. Atualmente venho estudando o mundo do frontend usando o framework ReactJS e estou gostando do que venho aprendendo nessa jornada.
-   Este é meu backend, bem vindo(a) ao meu repositório!
-</p>
+# 💫 About Me:
+Olá! Sou Pedro Henrique, um desenvolvedor backend apaixonado por transformar ideias em soluções eficientes e escaláveis. Com uma base sólida em Java e Spring, juntamente com experiência em PHP, Typescript e frameworks modernos, estou sempre pronto para enfrentar desafios e aprender algo novo.<br><br>Tenho experiência em desenvolvimento backend utilizando Java e Spring, construindo APIs robustas e eficientes. Além disso, estou familiarizado com PHP e Typescript, o que me permite adaptar-me facilmente a diferentes tecnologias e ambientes de desenvolvimento.<br><br>Meu conhecimento em banco de dados é abrangente, tanto em sistemas relacionais quanto não relacionais. Trabalhei com PostgreSQL e MongoDB, compreendendo as nuances de cada tipo de banco de dados e utilizando as melhores práticas para garantir a integridade e desempenho dos dados.<br><br>No desenvolvimento frontend, possuo habilidades em React, HTML, CSS e JavaScript, utilizando ferramentas como Bootstrap para criar interfaces intuitivas e responsivas. Estou sempre interessado em melhorar minhas habilidades de design e usabilidade para entregar produtos de alta qualidade.
 
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/PedroHenrique131) 
 
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![AZUREDEVOPS](https://img.shields.io/badge/azuredevops-0078D7.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=%230078D7) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Bitwarden](https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Ubiquiti](https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PedroCode2&theme=gotham&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PedroCode2&theme=gotham&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroCode2&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<h3 align="center">Redes Sociais</h3>
-<div align="center">
-   <a href="https://www.linkedin.com/in/pedro-henrique-soares-40b18b21a/" target="blank"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a> &nbsp;&nbsp;
-   <a href="https://www.facebook.com/PedroCode2/" target="blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" /></a> &nbsp;&nbsp;
-   <a href="https://steamcommunity.com/id/Riiveen/" target="blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam" /></a> &nbsp;&nbsp;
-   <a href="https://api.whatsapp.com/send?phone=5519987115718&text=Ol%C3%A1%2C%20Gostaria%20de%20entrar%20em%20contato%20com%20PedroCode%20a%20Respeito%20de%20Trabalhos%20como%20Webdeveloper" target="blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Telegram" /></a> &nbsp;&nbsp;
-</div>
-<br>
-<h3 align="center">Conhecimentos</h3>
-<div align="center">
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt"Java">&nbsp;
-   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">&nbsp;
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" alt="HTML5">&nbsp;
-   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=FFFFFF" alt="CSS3">&nbsp;
-   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000000" alt="JavaScript">&nbsp;
-   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=FFFFFF" alt="TypeScript">&nbsp;
-   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat&logo=nodedotjs&logoColor=FFFFFF"  alt="NodeJS">&nbsp;
-   <img src="https://img.shields.io/badge/insomnia-5849BE?style=flat&logo=insomnia&logoColor=FFFFFF" alt="Insomnia" />&nbsp;
-   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=FFFFFF" alt="Docker">&nbsp;
-   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=FFFFFF" alt="Python">&nbsp;
-   <img src="https://img.shields.io/badge/Postgresql-4169E1?style=flat&logo=postgresql&logoColor=FFFFFF" alt="PostgreSQL">&nbsp;
-   <img src="https://img.shields.io/badge/mongodb-47A248?style=flat&logo=mongodb&logoColor=FFFFFF" alt="MongoDB">&nbsp;
-   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=FFFFFF" alt="Git">&nbsp;
-   <img src="https://img.shields.io/badge/yarn-2C8EBB?style=flat&logo=yarn&logoColor=FFFFFF" alt="Yarn">&nbsp;
-   <img src="https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=FFFFFF" alt="NPM">&nbsp;
-   <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000000" alt="React">&nbsp;
-   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=FFFFFF" alt="Bootstrap">&nbsp;
-</div>
-<br>
-<h3 align="center"> Interesses de aprendizado </h3>
-<div align="center">
-   <img src="https://img.shields.io/badge/Vuejs-4FC08D?style=flat&logo=vuedotjs&logoColor=FFFFFF" alt="VueJS">&nbsp;
-   <img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.JS">&nbsp;
-   <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=000000" alt="Webpack">&nbsp;
-   <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=FFFFFF" alt="Android">&nbsp;
-   <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt "AngularJS">&nbsp;
-</div>
-<br>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=PedroCode2&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
+[![](https://visitcount.itsvg.in/api?id=PedroCode2&icon=2&color=0)](https://visitcount.itsvg.in)
 
-<!---Cobrinha comendo animação --->
-
-<!-- ![Snake animation](https://github.com/pedrocode2/pedrocode2/blob/output/github-user-contribution.svg) -->
-
-<!---  **************************************************************************************************************************************************  --->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
