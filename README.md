@@ -22,6 +22,7 @@
 <br>
 <h3 align="center">Conhecimentos</h3>
 <div align="center">
+   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt"Java">&nbsp;
    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code">&nbsp;
    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=FFFFFF" alt="HTML5">&nbsp;
    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=FFFFFF" alt="CSS3">&nbsp;
@@ -46,7 +47,6 @@
    <img src="https://img.shields.io/badge/nextjs-000000?style=flat&logo=nextdotjs&logoColor=FFFFFF" alt="Next.JS">&nbsp;
    <img src="https://img.shields.io/badge/webpack-8DD6F9?style=flat&logo=webpack&logoColor=000000" alt="Webpack">&nbsp;
    <img src="https://img.shields.io/badge/android-3DDC84?style=flat&logo=android&logoColor=FFFFFF" alt="Android">&nbsp;
-   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt"Java">&nbsp;
    <img src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" alt "AngularJS">&nbsp;
 </div>
 <br>
